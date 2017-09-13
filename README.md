@@ -1,4 +1,4 @@
-## simple calculator
+## Console Calculator
 
 This is a simple example of a calculator in java 
 
