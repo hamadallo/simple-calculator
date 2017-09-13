@@ -57,11 +57,6 @@ public class Calculator {
         
     }
     
-    public static double Pow(double x, double y) {
-
-        return Math.pow(x, y);
-        
-    }
 
     public static void main(String[] args) {
 
